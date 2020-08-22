@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2 align=center>Hi there 👋</h1>
 
-<!--
-**pmerku/pmerku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    You can find me on
+    <a href="https://www.linkedin.com/in/pmerku">
+        <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    </a>
+    or on 
+    <a href="https://twitter.com/primozmerku">
+        <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="text-align: center;">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmerku&theme=dark&hide_border=true&layout=compact&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pmerku&theme=dark&show_icons=true&count_private=true&hide_border=true&hide=issues" />
+</div>
